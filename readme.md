@@ -14,7 +14,7 @@
 -Screenshot
 
 ![Screenshot](./assets/screenshot%20(1).png?raw=true) 
-## 📌 **Live Site URL:** <a href="https://kartikjodhani-crypto-landing-page.netlify.app/"  target="_blank">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://kartikjodhani-paytm-clone.netlify.app/"  target="_blank">**Visit Now** 🚀</a>
 
 ## 📌 What I Learnt
 
